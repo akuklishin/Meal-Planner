@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "1",
+    "name": "Apple",
+    "calories": 95,
+    "proteins": 0.5,
+    "carbs": 25,
+    "fat": 0.3
+  },
+  {
+    "_id": "2",
+    "name": "Banana",
+    "calories": 105,
+    "proteins": 1.3,
+    "carbs": 27,
+    "fat": 0.4
+  },
+  {
+    "_id": "3",
+    "name": "Orange",
+    "calories": 62,
+    "proteins": 1.2,
+    "carbs": 15,
+    "fat": 0.2
+  },
+  {
+    "_id": "4",
+    "name": "Pear",
+    "calories": 102,
+    "proteins": 0.6,
+    "carbs": 27,
+    "fat": 0.2
+  },
+  {
+    "_id": "5",
+    "name": "Strawberry",
+    "calories": 33,
+    "proteins": 0.7,
+    "carbs": 8,
+    "fat": 0.3
+  },
+  {
+    "_id": "6",
+    "name": "Blueberry",
+    "calories": 57,
+    "proteins": 0.7,
+    "carbs": 14,
+    "fat": 0.3
+  },
+  {
+    "_id": "7",
+    "name": "Raspberry",
+    "calories": 52,
+    "proteins": 1.2,
+    "carbs": 12,
+    "fat": 0.7
+  },
+  {
+    "_id": "8",
+    "name": "Blackberry",
+    "calories": 43,
+    "proteins": 1.4,
+    "carbs": 10,
+    "fat": 0.5
+  },
+  {
+    "_id": "9",
+    "name": "Pineapple",
+    "calories": 50,
+    "proteins": 0.5,
+    "carbs": 13,
+    "fat": 0.1
+  },
+  {
+    "_id": "10",
+    "name": "Mango",
+    "calories": 99,
+    "proteins": 1.4,
+    "carbs": 25,
+    "fat": 0.6
+  },
+  {
+    "_id": "11",
+    "name": "Watermelon",
+    "calories": 30,
+    "proteins": 0.6,
+    "carbs": 8,
+    "fat": 0.2
+  },
+  {
+    "_id": "12",
+    "name": "Grapefruit",
+    "calories": 52,
+    "proteins": 0.8,
+    "carbs": 13,
+    "fat": 0.2
+  },
+  {
+    "_id": "13",
+    "name": "Lemon",
+    "calories": 29,
+    "proteins": 1.1,
+    "carbs": 9,
+    "fat": 0.3
+  },
+  {
+    "_id": "14",
+    "name": "Lime",
+    "calories": 20,
+    "proteins": 0.5,
+    "carbs": 7,
+    "fat": 0.2
+  },
+  {
+    "_id": "15",
+    "name": "Avocado",
+    "calories": 160,
+    "proteins": 2,
+    "carbs": 9,
+    "fat": 15
+  }
+]
